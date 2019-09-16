@@ -56,3 +56,5 @@ http://iphunter.net/geo_ip?ipv4=8.8.8.8
 
 ![avatar](https://iphunter.net/static/iphunter_font_2.png)
 
+### https://iphunter.net/aips/
+
